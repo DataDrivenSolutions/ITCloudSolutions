@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cloud and Cybersecurity Projects:</h2>
 
-  - [Azure Sentinel SIEM Lab ]([https://github.com/](https://github.com/ITCloudSolutions/AzureSentinelSiemLab)
+  - [Azure Sentinel SIEM Lab ]([https://github.com/](https://github.com/ITCloudSolutions/AzureSentinelSiemLab))
   - [Hello, World!](https://github.com/)
 
 <h2> Certifications </h2>
